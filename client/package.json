@@ -1,0 +1,20 @@
+{
+  "name": "restaurant-finder-client",
+  "version": "1.0.0",
+  "description": "Frontend for Restaurant Finder App",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.21.1",
+    "axios": "^1.6.5",
+    "lucide-react": "^0.263.1",
+    "i18next": "^23.7.16",
+    "react-i18next": "^14.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  }
+}
